@@ -27,7 +27,7 @@ Becoming an expert in my field and someday be able to lead a team and manage maj
 
 
 ## ⌛ Currently Learning :
-- Dev Ops (Cloud) : Linux, Virtual Private Server (VPS), Nginx, Deployment with Docker and Github Action.
+- Dev Ops (Cloud) : Linux, Virtual Private Server (VPS) Azure VM, Nginx, Deployment with Docker and Github Action.
 
 
 ##  🚀 How to reach me
