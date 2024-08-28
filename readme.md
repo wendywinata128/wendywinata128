@@ -9,6 +9,8 @@
 
 🙋 Hello, I'm Wendy Winata, **Software Engineer** with over 2 years of [proven experience](https://whodevs.codes/wendy?source=Github) in developing and maintaining applications. Highly self-motivated person and team player with hands-on experience
 in building applications from scratch, building and integrating RESTful APIs, and working with relational and non relational databases. 
+
+*Currently im not using github regularly because of my current company is using other git provider*
 ##  🏣 Career
 I began my career as a Part Time Junior Full Stack Developer at [CMLABS Digital](https://whodevs.codes/wendy/CMLABS), a startup where I develop my skills in both front-end and back-end development. This experience give me a foundation for my technical expertise and problem-solving abilities. 
 
