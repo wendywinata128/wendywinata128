@@ -7,7 +7,7 @@
 </p>
 
 
-🙋 Hello, I'm Wendy Winata, **Software Engineer** with over 2 years of [proven experience](https://whodevs.codes/wendy?source=Github) in developing and maintaining applications. Highly self-motivated person and team player with hands-on experience
+🙋 Hello, I'm Wendy Winata, **Software Engineer** with over 3 years of [proven experience](https://whodevs.codes/wendy?source=Github) in developing and maintaining applications. Highly self-motivated person and team player with hands-on experience
 in building applications from scratch, building and integrating RESTful APIs, and working with relational and non relational databases. 
 
 *Currently im not using github regularly because of my current company is using other git provider*
